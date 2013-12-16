@@ -1,0 +1,7 @@
+Zhanghong:class1:75
+wangliang:class2:68
+liming:class3:99
+dave:class2:83
+liuhai:class3:23
+fangyuan:class1:77
+
